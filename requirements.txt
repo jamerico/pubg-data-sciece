@@ -12,3 +12,4 @@ scikit-learn
 xlrd
 seaborn
 jupyterlab
+kaggle
